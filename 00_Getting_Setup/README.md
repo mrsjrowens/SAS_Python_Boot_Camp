@@ -2,7 +2,7 @@
 
 
 ## Introduction
-These instructions are for Lipscomb University students who are enrolled in *MSDS5023 Information Structures* and our *SAS/Python Bootcamp*. The goal is to get your Python environment configured and ready for use and to test that you can connect to your SAS cloud instance using Python.
+These instructions are for Lipscomb University students who are enrolled in *SAS/Python Bootcamp*. The goal is to get your Python environment configured and ready for use and to test that you can connect to your SAS cloud instance using Python.
 
 ---
 
